@@ -60,6 +60,7 @@ function App() {
         background: "#111",
       }}
     >
+      <h1>ADETOLA</h1>
       <div
         style={{
           background: "#222",
