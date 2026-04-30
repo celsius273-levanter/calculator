@@ -60,11 +60,6 @@ function App() {
         background: "#111",
       }}
     >
-      <h1
-        style={{
-          color: "red"
-        }}
-      >ADETOLA IT IS NOT AI</h1>
       <div
         style={{
           background: "#222",
